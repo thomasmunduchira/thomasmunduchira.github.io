@@ -1,2 +1,2 @@
-# thomasmunduchira.github.io
-Personal website: thomasmunduchira.com
+# Personal Website
+Under construction
