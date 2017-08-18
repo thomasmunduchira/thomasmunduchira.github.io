@@ -1,0 +1,33 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="{{ site.url }}/">
+
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+<!--   <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/logo.png">
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}{{ site.baseurl }}/images/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.url }}{{ site.baseurl }}/images/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/images/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/images/favicon-16x16.png" sizes="16x16">
+  <meta name="application-name" content="DVC Science Alliance">
+  <meta name="msapplication-TileColor" content="#27AE5F">
+  <meta name="msapplication-TileImage" content="{{ site.url }}{{ site.baseurl }}/images/mstile-144x144.png"> -->
+
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli:400,700">
+  {% for stylesheet in page.stylesheets %}
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/stylesheets/{{ stylesheet }}.css">
+  {% endfor %}
+
+  <script async type="text/javascript" src="https://use.fontawesome.com/09fb527af5.js"></script>
+  <script defer type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script defer type="text/javascript" src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  {% for script in page.scripts %}
+  <script defer type="text/javascript" src="{{ site.url}}{{ site.baseurl }}/scripts/{{ script }}.js"></script>
+  {% endfor %}
+</head>

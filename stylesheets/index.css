@@ -1,0 +1,96 @@
+::selection {
+  background: #FFEE58;
+}
+
+body {
+  background: black;
+  font-family: 'Muli', sans-serif;
+  margin: 0;
+  color: #FAFAFA;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.icon-link {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.icon {
+  color: #FAFAFA;
+  font-size: 2.4em !important;
+  cursor: pointer;
+}
+
+.icon:hover {
+  color: #FFEE58;
+}
+
+#splash-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 95vh;
+  min-width: 100px;
+  min-height: 300px;
+}
+
+#background {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+#splash-page-content {
+  position: relative;
+  z-index: 100;
+  width: 90vw;
+  max-width: 700px;
+}
+
+#title {
+  font-size: 2em;
+}
+
+#description {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 1.3em;
+}
+
+#footer {
+  position: relative;
+  z-index: 100;
+  margin-bottom: 10px;
+}
+
+#copyright {
+  font-size: 1.1em;
+}
+
+@media (min-width: 640px) {
+  #title {
+    font-size: 3.6em;
+  }
+
+  #description {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+  }
+}
