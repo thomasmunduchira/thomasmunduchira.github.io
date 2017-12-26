@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/thomasmunduchira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thomasmunduchira.com
+  * I am thomasmunduchira (https://keybase.io/thomasmunduchira) on keybase.
+  * I have a public key ASBceGu62Yob5kh7qDvnAEnqfDx0QVl81IJcFEV9tT4Hmwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205c786bbad98a1be6487ba83be70049ea7c3c7441597cd4825c14457db53e079b0a",
+      "host": "keybase.io",
+      "kid": "01205c786bbad98a1be6487ba83be70049ea7c3c7441597cd4825c14457db53e079b0a",
+      "uid": "d5ebcba6ba6db2b045ce8e7342b64719",
+      "username": "thomasmunduchira"
+    },
+    "merkle_root": {
+      "ctime": 1514311657,
+      "hash": "085d5a5648242531ffc92d72a1734e408a2fa77a534dd77ce582d5c238a8df501df09703d5e59f5e8bca65146d83af8b8018d8259f31829976c1cefed88dd2a6",
+      "hash_meta": "93394fdef66fa841fc5656add77d3866fdf93a37f85ae184776f89c83c89e3f3",
+      "seqno": 1858935
+    },
+    "service": {
+      "hostname": "thomasmunduchira.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514311722,
+  "expire_in": 504576000,
+  "prev": "4850939fcb1e90c8b29ab5c7eae3d5b569179efa94e5dc68ca3aab4140fb44f7",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXHhrutmKG+ZIe6g75wBJ6nw8dEFZfNSCXBRFfbU+B5sKp3BheWxvYWTFA1R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWM3ODZiYmFkOThhMWJlNjQ4N2JhODNiZTcwMDQ5ZWE3YzNjNzQ0MTU5N2NkNDgyNWMxNDQ1N2RiNTNlMDc5YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWM3ODZiYmFkOThhMWJlNjQ4N2JhODNiZTcwMDQ5ZWE3YzNjNzQ0MTU5N2NkNDgyNWMxNDQ1N2RiNTNlMDc5YjBhIiwidWlkIjoiZDVlYmNiYTZiYTZkYjJiMDQ1Y2U4ZTczNDJiNjQ3MTkiLCJ1c2VybmFtZSI6InRob21hc211bmR1Y2hpcmEifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTQzMTE2NTcsImhhc2giOiIwODVkNWE1NjQ4MjQyNTMxZmZjOTJkNzJhMTczNGU0MDhhMmZhNzdhNTM0ZGQ3N2NlNTgyZDVjMjM4YThkZjUwMWRmMDk3MDNkNWU1OWY1ZThiY2E2NTE0NmQ4M2FmOGI4MDE4ZDgyNTlmMzE4Mjk5NzZjMWNlZmVkODhkZDJhNiIsImhhc2hfbWV0YSI6IjkzMzk0ZmRlZjY2ZmE4NDFmYzU2NTZhZGQ3N2QzODY2ZmRmOTNhMzdmODVhZTE4NDc3NmY4OWM4M2M4OWUzZjMiLCJzZXFubyI6MTg1ODkzNX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0aG9tYXNtdW5kdWNoaXJhLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE0MzExNzIyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjQ4NTA5MzlmY2IxZTkwYzhiMjlhYjVjN2VhZTNkNWI1NjkxNzllZmE5NGU1ZGM2OGNhM2FhYjQxNDBmYjQ0ZjciLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDNNnLBamZ+RqRM9T5kKfTmW0F/lJGsyDcDxq7ldo/hy8edFpEfcYj6kJ9zDgufPFbcWd4tjGETu/0d32f8LWIAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsqtUPIuaa32IadRILj2AcUH5Njoq1dJDUMbfH577D+ujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thomasmunduchira
+
+==================================================================
