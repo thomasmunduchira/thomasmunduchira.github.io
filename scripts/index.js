@@ -1,2 +1,2 @@
-$('#year').html(new Date().getFullYear());
-particlesJS.load('background', 'scripts/particles.json');
+document.getElementById('year').innerHTML = new Date().getFullYear();
+
